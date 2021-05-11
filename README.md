@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning MSc in Data Science
 - 💞️ I’m looking to collaborate on Data Anaytic, Data Scientist, Machine Learning and NLP Project
-- 📫 How to reach me Main me on sudeep.sawant@outlook.com
+- 📫 How to reach me Main me on sudeep.sawant@outlook.com or DM in LinkedIn https://www.linkedin.com/in/sudeep-sawant/
 
 <!---
 sudeep93/sudeep93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
